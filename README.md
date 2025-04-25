@@ -21,7 +21,10 @@ This project implements a Siamese network for fingerprint identification using t
 | Hard             | 97.68%   | 2,366          |
 
 **Similarity Distribution**  
-![Similarity Histograms](https://i.imgur.com/your-image-link.png)
+![All test samples](https://i.imgur.com/your-image-link.png)
+![Easy test samples](https://i.imgur.com/your-image-link.png)
+![Medium test samples](https://i.imgur.com/your-image-link.png)
+![Hard test samples](https://i.imgur.com/your-image-link.png)
 
 ## Model Architecture
 ```python
