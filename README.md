@@ -1,11 +1,12 @@
 # Fingerprint Matching with Siamese Networks
 
 [![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=your-notebook-link) 
-[![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 
 This project implements a Siamese network for fingerprint identification using the [SOCOFing dataset](https://www.kaggle.com/datasets/ruizgara/socofing), achieving **98.52% accuracy** on altered fingerprint matching.
 
 ## Key Features
+
 - 🖼️ Processes 90×97 grayscale fingerprint images
 - 🔍 Encodes fingerprints into 128-dimension normalized vectors
 - 🤖 Uses triplet loss with cosine similarity
