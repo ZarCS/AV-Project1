@@ -1,6 +1,6 @@
 # Fingerprint Matching with Siamese Networks
 
-[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=your-notebook-link) 
+[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=[your-notebook-link](https://github.com/ZarCS/AV-Project1/blob/main/siamese-model-for-fingerprint-identification.ipynb)) 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 
 This project implements a Siamese network for fingerprint identification using the [SOCOFing dataset](https://www.kaggle.com/datasets/ruizgara/socofing), achieving **98.52% accuracy** on altered fingerprint matching.
