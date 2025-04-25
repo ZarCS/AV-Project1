@@ -99,5 +99,3 @@ SOCOFing/
 - Initial Inspiration: Coursera NLP Specialization
 
 ---
-
-**Note**: This README corresponds directly to the Jupyter notebook implementation. For complete code and visualizations, see the notebook [here](your-kaggle-notebook-link).
