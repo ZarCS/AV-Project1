@@ -4,6 +4,9 @@
 
 This project implements a Siamese network for fingerprint identification using the [SOCOFing dataset](https://www.kaggle.com/datasets/ruizgara/socofing), achieving **98.52% accuracy** on altered fingerprint matching.
 
+### data set samples
+![samples](https://github.com/ZarCS/AV-Project1/blob/main/pics/fingers.png)
+
 ## Key Features
 
 - 🖼️ Processes 90×97 grayscale fingerprint images
@@ -21,13 +24,13 @@ This project implements a Siamese network for fingerprint identification using t
 | Hard             | 97.68%   | 2,366          |
 
 **Similarity Distribution**  
-![All test samples]([https://i.imgur.com/your-image-link.png](https://github.com/ZarCS/AV-Project1/blob/main/pics/hist-all.png)
+![All test samples](https://github.com/ZarCS/AV-Project1/blob/main/pics/hist-all.png)
 
-![Easy test samples]([https://i.imgur.com/your-image-link.png](https://github.com/ZarCS/AV-Project1/blob/main/pics/hist-easy.png)
+![Easy test samples](https://github.com/ZarCS/AV-Project1/blob/main/pics/hist-easy.png)
 
-![Medium test samples]([https://i.imgur.com/your-image-link.png](https://github.com/ZarCS/AV-Project1/blob/main/pics/hist-medium.png)
+![Medium test samples](https://github.com/ZarCS/AV-Project1/blob/main/pics/hist-medium.png)
 
-![Hard test samples]([https://i.imgur.com/your-image-link.png)](https://github.com/ZarCS/AV-Project1/blob/main/pics/hist-hard.png)
+![Hard test samples](https://github.com/ZarCS/AV-Project1/blob/main/pics/hist-hard.png)
 
 ## Model Architecture
 ```python
